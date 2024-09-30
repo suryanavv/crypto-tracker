@@ -2,6 +2,8 @@
 
 CrypCoin Tracker is a real-time cryptocurrency tracking application built with React and Vite. It provides up-to-date information on coin prices, 24-hour changes, and market capitalization.
 
+Live Demo: [CrypCoin Tracker](https://crypcointracker.netlify.app/)
+
 ## Features
 
 - Real-time cryptocurrency data
